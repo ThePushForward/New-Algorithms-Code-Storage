@@ -19,3 +19,10 @@ The next thing is disicion making.
 1. water-The data pools that the algorithm learns from
 2. C02- The failures of the past iterations of plants that the future iterations will take and process it to be correct and learn from it.
 3. Sunlight- This is how the leafs know how much to process. The higher the leaf is in the sunlight the higher concentration and lower concentration lower down.
+Final output:
+Features: Example, Example, etc., etc
+Leaf Structure:
+Leaf 1:Feature extraction (sunlight closesness: 3)
+Leaf 2:Sentiement Analysis (sunlight closesness: 4)
+Accuracy:0.00001
+Seeds Distrubuted: 5
